@@ -1,0 +1,32 @@
+seqlength 11383 
+nalpha 5 
+Build Tree Time 0 clock with rate 1000000 (cps)
+ #internal 7300, #leaves 11383, #total 18683, size 896784
+pid 11149
+
+
+++++++++++++++++
+post-order traversal depths
+
+
+++++++++++++++++
+DFS depths
+
+
+++++++++++++++++
+avg internal depth: 6, max internal depth: 14
+longest exact matching sequence is at node 17330 :
+AAGAGATACAGAAT
+for suffix :
+7251	9236	
+
+longest exact matching sequence is at node 15948 :
+AATCAAAAGAAACT
+for suffix :
+3389	7078	
+
+longest exact matching sequence is at node 15523 :
+ACAGCAAGTGGAAA
+for suffix :
+6164	6404	
+

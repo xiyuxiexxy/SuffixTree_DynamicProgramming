@@ -1,0 +1,9 @@
+top - 16:07:15 up 1 day, 31 min,  2 users,  load average: 0.47, 0.40, 0.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+Cpu(s):  5.9%us,  0.9%sy,  0.0%ni, 92.8%id,  0.3%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:   3845868k total,  2925084k used,   920784k free,   822024k buffers
+Swap:   262140k total,      564k used,   261576k free,  1335560k cached
+
+  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND            
+11789 xiyu      20   0  6248  540  440 S    0  0.0   0:00.00 suffix             
+
